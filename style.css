@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+ }  
+
+body{
+    background-color: #d8f3dc;
+    font-family: serif;  
+ }
+ .myname { 
+   font-family: 'Source Serif Pro', serif;
+   color: #1b4332;
+   text-align: center;
+ }
+ .aboutwillian {
+    text-align: justify;
+ }
+ .profile {
+    line-height: 40px;
+ }
+ .colortitle {
+   color: #1b4332;
+ }
+ .titleportfolio {
+  background-color: #ffffff;
+  line-height: 60px;
+  text-align: center;
+  margin: -10px -8px 0px -10px;
+  font-family:'Source Serif Pro', serif;
+  color: #1b4332;
+ }
+ .subtitle {margin: -35px -50px 20px -50px;
+ background-color: #40916c;
+ word-spacing: 200px;
+ text-align: center;
+}
+.sublinhadonone{ text-decoration: none}
+
+.planofundo1 { background-color: #1b4332;}
+
+.minha-foto{ 
+    float: left; 
+    padding: 5px;
+    margin: 2%;
+    border-radius: 600px;
+    background-color: #036666;
+}
+
+.image-container{
+    height: 300px;
+}
+.subtitle-about{
+    margin: 70px;
+}
+ul {
+    margin: 3%;
+}
+.list-title{
+    margin: 2%;
+}
+a:hover{
+    color: #1b4332;
+    font-weight: bold;
+    font-size: 20px;
+}
+
