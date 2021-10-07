@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -33,6 +34,9 @@ body{
  background-color: #40916c;
  word-spacing: 200px;
  text-align: center;
+ border: 10px #40916c solid;
+ font-size: 20px;
+ color: #1b4332;
 }
 .sublinhadonone{ text-decoration: none}
 
@@ -58,9 +62,6 @@ ul {
 .list-title{
     margin: 2%;
 }
-a:hover{
-    color: #1b4332;
-    font-weight: bold;
-    font-size: 20px;
+.center{
+    text-align: center;
 }
-
