@@ -21,10 +21,10 @@ body {
     backdrop-filter: blur(3.5px);
     -webkit-backdrop-filter: blur(3.5px);
     border: 1px solid rgba(165, 8, 8, 0.6);
-    background-image: url("img/foto7.jpg");
+    background-color: #404040;
     background-size: 450px;
-    background-position: left 0px;
-    width: 450px;
+    background-position: left 400px;
+    width: 30%;
     border: 2px solid #e126d9;
     border-radius: 10px;
     overflow: hidden;
@@ -86,9 +86,6 @@ body {
     background-color: #262626;
   }
   
-  .cartao .abas .aba:hover {
-    background-color: #414141;
-  }
   
   .informacoes-abas .informacao {
     min-height: 260px;
